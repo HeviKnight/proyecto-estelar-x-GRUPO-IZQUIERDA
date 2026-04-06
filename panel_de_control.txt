@@ -1,1 +1,2 @@
+Sistema de navegación: MANUAL
 Sistema de navegacion: AUTO
